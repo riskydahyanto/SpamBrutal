@@ -1,1 +1,1 @@
-# SpamBrutal
+# Spam
